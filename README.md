@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Carlo
 
-<!--
-**villacerc/villacerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer constantly learning and building.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Ruby on Rails, FastAPI
+- Tools: Git, VS Code, Vercel, AWS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- **[PickAndRoll](https://github.com/villacerc/heatcheck)**  
+  Discovering and join pickup basketball games.
+  Tech: React, Node.js, PostgreSQL, GCP
+
+- **[FoodSight](https://github.com/villacerc/foodsight)**  
+  A detailed glossary of chemicals found in food.
+  Tech: Javascript, Ruby on Rails, PostgreSQL
+  
+- **[DeltaKids](https://github.com/delta-kids/delta_kids_project)**  
+  A centralized platform for children's programs in Delta
+  Tech: Javascript, Ruby on Rails, PostgreSQL
+
+## 🌱 Currently Learning
+- Multi-Agent Systems
+- Autonomous AI Workflows
+
+## 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/carlovillaceran/)
+- [Portfolio](https://villacerc.github.io/)
+- cvillaceran@gmail.com
