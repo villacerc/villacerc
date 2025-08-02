@@ -9,7 +9,7 @@ I'm a full-stack developer constantly learning and building.
 
 ## 📌 Featured Projects
 - **[PickAndRoll](https://github.com/villacerc/heatcheck)**  
-  Discovering and join pickup basketball games.
+  Discover and join pickup basketball games.
   Tech: React, Node.js, PostgreSQL, GCP
 
 - **[FoodSight](https://github.com/villacerc/foodsight)**  
