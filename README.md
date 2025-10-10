@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carlo
 
-I'm a full-stack developer constantly learning and building.
+I'm a frontend developer constantly learning and building.
 
 ## 🛠 Tech Stack
 - Frontend: React, Next.js, Tailwind CSS
